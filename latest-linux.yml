@@ -1,0 +1,8 @@
+version: 1.1.2
+files:
+  - url: mythbound-linux.tar.gz
+    sha512: 7204dda8a16232aadc6f3795c1bcd3eca371823d09742facf3484e89041b4d1dbaf8cadc761293db2906454b9e43fc84db97f4339fd5902444857efd584db73e
+    size: 171853290
+path: mythbound-linux.tar.gz
+sha512: 7204dda8a16232aadc6f3795c1bcd3eca371823d09742facf3484e89041b4d1dbaf8cadc761293db2906454b9e43fc84db97f4339fd5902444857efd584db73e
+releaseDate: '2025-05-25T00:43:32.543Z'
